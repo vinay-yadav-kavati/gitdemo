@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\vinay\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = Vinay Kavati
+	email = vinaykavati13@gmail.com
+[color]
+	ui = auto
